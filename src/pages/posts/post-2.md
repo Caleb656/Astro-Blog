@@ -7,11 +7,11 @@ author: 'Caleb Steinman'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["TV Show", "Anime", "Mature"]
 ---
 
 <img src="https://m.media-amazon.com/images/M/MV5BN2Q1NWExNzEtM2M1Ny00ZDJhLWIwN2MtZGI5ZGI4MzBlYTQyXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_FMjpg_UX1000_.jpg" 
-        alt= "Cyberpunk: Edgerunners art" width="250" height="350">
+        alt= "Invincible Art" width="250" height="350">
 
 ## Info
 - **Release Date:** 2021

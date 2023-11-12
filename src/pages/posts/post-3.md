@@ -7,11 +7,11 @@ author: 'Caleb Steinman'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["Movie", "Crime", "Mature"]
 ---
 
 <img src="https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" 
-        alt= "Cyberpunk: Edgerunners art" width="250" height="350">
+        alt= "Reservoir Dogs Art" width="250" height="350">
 
 ## Info
 - **Release Date:** 1992

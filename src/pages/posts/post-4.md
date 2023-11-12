@@ -7,7 +7,7 @@ author: 'Caleb Steinman'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["Movie", "Thriller", "Mature"]
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg" 

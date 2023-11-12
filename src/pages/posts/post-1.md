@@ -7,7 +7,7 @@ author: 'Caleb Steinman'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["TV Show", "Anime", "Mature"]
 ---
 
 <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22812509_b_v13_ab.jpg" 
