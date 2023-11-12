@@ -1,4 +1,14 @@
-# Invincible
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'Invincible'
+pubDate: 2022-07-01
+description: 'This is the first post of my new Astro blog.'
+author: 'Caleb Steinman'
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'The full Astro logo.'
+tags: ["astro", "blogging", "learning in public"]
+---
 
 <img src="https://m.media-amazon.com/images/M/MV5BN2Q1NWExNzEtM2M1Ny00ZDJhLWIwN2MtZGI5ZGI4MzBlYTQyXkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_FMjpg_UX1000_.jpg" 
         alt= "Cyberpunk: Edgerunners art" width="250" height="350">

@@ -1,4 +1,14 @@
-# Cyberpunk: Edgerunners
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'Cyberpunk: Edgerunners'
+pubDate: 2022-07-01
+description: 'This is the first post of my new Astro blog.'
+author: 'Caleb Steinman'
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'The full Astro logo.'
+tags: ["astro", "blogging", "learning in public"]
+---
 
 <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22812509_b_v13_ab.jpg" 
         alt= "Cyberpunk: Edgerunners art" width="250" height="350">

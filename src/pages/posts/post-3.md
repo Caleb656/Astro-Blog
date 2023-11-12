@@ -1,4 +1,14 @@
-# Reservoir Dogs
+---
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'Reservoir Dogs'
+pubDate: 2022-07-01
+description: 'This is the first post of my new Astro blog.'
+author: 'Caleb Steinman'
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'The full Astro logo.'
+tags: ["astro", "blogging", "learning in public"]
+---
 
 <img src="https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" 
         alt= "Cyberpunk: Edgerunners art" width="250" height="350">
